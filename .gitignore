@@ -1,0 +1,4 @@
+refs/hg38.fasta
+refs/hg38*.bt2
+refs/GRCh38_no_alt_analysis_set_GCA_000001405.15.fasta.gz
+refs/HERV_rmsk.hg38.v2.gtf
